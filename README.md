@@ -1,0 +1,1 @@
+- The orgional dataset can be found on kaggle at https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data 
